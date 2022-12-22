@@ -34,7 +34,7 @@
       "./assets/style/picker.min.css": {
          "style": "./assets/style/picker.min.csss"
     }
-}
+},
   "repository": {
     "type": "git",
     "url": "https://github.com/danielmoncada/date-time-picker.git"
