@@ -32,7 +32,7 @@
   },
     "exports": {
       "./assets/style/picker.min.css": {
-         "style": "./assets/style/picker.min.csss"
+         "style": "./assets/style/picker.min.css"
     }
 },
   "repository": {
