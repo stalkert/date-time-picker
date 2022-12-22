@@ -30,6 +30,11 @@
     "package_windows": "npm run build_lib && npm run build_css_onWindows && npm run npm_pack",
     "package_linux": "npm run build_lib && npm run build_css_onLinux && npm run npm_pack"
   },
+    "exports": {
+      "./assets/style/picker.min.css": {
+         "style": "./assets/style/picker.min.csss"
+    }
+}
   "repository": {
     "type": "git",
     "url": "https://github.com/danielmoncada/date-time-picker.git"
